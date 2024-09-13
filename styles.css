@@ -17,15 +17,15 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:rgb(255, 255, 255);
+    background-color:bisque;
     color:black;
-    padding-top:1.5Rem;
+    padding-top:2Rem;
 }
 
 .theme-toggle{
     cursor: pointer;
     text-decoration: underline;
-    color:antiquewhite;
+    color:black;
     font-size:large;
 
 }
@@ -33,13 +33,14 @@ header{
 .theme-container{
     display: flex;
     justify-content: end;
-    background-color: beige;
-    color:antiquewhite;
-    padding-bottom: 3Rem;
+    background-color:bisque;
+    color:black;
+    padding-bottom: 1Rem;
+    padding-right: 1Rem;
 }
 
 section{
-    padding: 2rem;
+    padding: 2Rem;
     margin: 1Rem 0;
 
 }
@@ -49,6 +50,7 @@ section{
     margin: 0 auto;
 
 }
+
 
 .projects{
     margin-bottom: 1Rem;
